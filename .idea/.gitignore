@@ -1,4 +1,4 @@
-# Exclusiones de IntelliJ IDEA y Java
+out/
 .idea/
 *.iml
 *.class
