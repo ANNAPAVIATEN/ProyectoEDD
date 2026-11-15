@@ -15,4 +15,4 @@ jobs:
           distribution: 'temurin'
 
       - name: Compilar proyecto
-        run: javac Main.java Calculadora.java
+        run: javac src/Main.java src/Calculadora.java
